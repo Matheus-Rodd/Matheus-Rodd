@@ -2,9 +2,9 @@
 
 Me chamo Matheus Rodrigues, sou estudante de DEV e procuro crescer nesse segmento e enfrentar grandes desafios na carreira. Além disso, busco me aprimorar e sempre me manter atualizado no mercado.
 
-![imagem qualquer](https://i.pinimg.com/originals/c1/ca/b3/c1cab3f5e68f76f90f6b5d1f48254234.gif "a title")
+<img align="center" height="204em" widht="108em" margin-left="350px" src="https://i.pinimg.com/originals/c1/ca/b3/c1cab3f5e68f76f90f6b5d1f48254234.gif">
 
-![imagem qualquer](https://i.pinimg.com/originals/4d/64/08/4d6408285378256a5080815dad34d608.gif)
+<img align="left" height="204em" width="auto" src="https://i.pinimg.com/originals/4d/64/08/4d6408285378256a5080815dad34d608.gif">
 <!--
 **Matheus-Rodd/Matheus-Rodd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
