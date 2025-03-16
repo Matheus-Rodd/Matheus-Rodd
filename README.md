@@ -18,7 +18,7 @@
 ✔ Desenvolvimento Web e Mobile  
 ✔ Análise e Engenharia de Software  
 ✔ Banco de Dados e Cloud Computing  
-✔ Desenvolvimento Backend e Frontend  
+✔ Desenvolvimento Back-end e Front-end  
 
 ---
 
