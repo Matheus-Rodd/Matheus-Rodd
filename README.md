@@ -69,5 +69,5 @@
  
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExandyZ3Bva2J4a3ZqeWZnOTQ5Z3ZjNDhraWI3cHhua3IwaW9jdWg4bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="250" alt="Tecnologia na Prática"/>
   
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjAycWZicmZzYTBjZzRlN2RpYm1wMzg5NXNmaGxhdGQxcDc2aHJhZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif" width="250" alt="Codificando"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2R6Mm55YTJsMnlxdjJ5OGxwbjN0NG9ldmFyNTBxd3Y3NDJraGY5OCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26tn33aiTi1jkl6H6/giphy.gif" width="250" alt="Codificando"/>
 </p>
