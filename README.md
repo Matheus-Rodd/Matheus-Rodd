@@ -3,7 +3,7 @@
 <h3 align="center">💻 Estudante de Desenvolvimento de Sistemas 🚀</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/matheus-barros-0199ba270/" target="_blank">
+  <a href="https://www.linkedin.com/in/matheus-rodrigues-61b799356/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
@@ -61,3 +61,11 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Matheus-Rodd&locale=pt-br&mode=weekly&theme=dracula&hide_border=true&border_radius=5" height="150" alt="Streak Graph"/>
 </div>
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/ljV6b7wC82k3W/giphy.gif" width="250" alt="Programação em Ação"/>
+  <img src="https://media.giphy.com/media/5zJvq9Q3eQGTY/giphy.gif" width="250" alt="Tecnologia na Prática"/>
+  <img src="https://media.giphy.com/media/3o7TKVWY6OaT5YXp6M/giphy.gif" width="250" alt="Codificando"/>
+</p>
