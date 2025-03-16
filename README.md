@@ -71,3 +71,5 @@
 </p>
  
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExandyZ3Bva2J4a3ZqeWZnOTQ5Z3ZjNDhraWI3cHhua3IwaW9jdWg4bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="250" alt="Tecnologia na Prática"/>
+
+
