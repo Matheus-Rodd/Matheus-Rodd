@@ -67,9 +67,7 @@
 <p align="center">
   <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif?cid=ecf05e47r6hl461tw08a2cd6uf0w74ijsdyu669ml6aaxusp&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="250" alt="Programação em Ação"/>
 
-<img src="https://media.giphy.com/media/jBOOXxSJfG8kqMxT11/giphy.gif?cid=ecf05e47a9hunwakt1rr69v9bxtxzuhi2symq6spug8icay2&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="250" alt="Codificando"/>
-</p>
- 
+  <img src="https://media.giphy.com/media/jBOOXxSJfG8kqMxT11/giphy.gif?cid=ecf05e47a9hunwakt1rr69v9bxtxzuhi2symq6spug8icay2&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="250" alt="Codificando"/>
+
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExandyZ3Bva2J4a3ZqeWZnOTQ5Z3ZjNDhraWI3cHhua3IwaW9jdWg4bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="250" alt="Tecnologia na Prática"/>
-
-
+</p>
