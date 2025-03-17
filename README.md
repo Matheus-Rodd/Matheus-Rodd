@@ -56,14 +56,6 @@
 
 ---
 
-## 🔥 Contribuições  
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Matheus-Rodd&locale=pt-br&mode=weekly&theme=dracula&hide_border=true&border_radius=5" height="150" alt="Streak Graph"/>
-</div>
-
----
-
 <p align="center">
   <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif?cid=ecf05e47r6hl461tw08a2cd6uf0w74ijsdyu669ml6aaxusp&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="250" alt="Programação em Ação"/>
 
