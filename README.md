@@ -49,30 +49,19 @@
 
 ## 🔥 Projetos em Destaque  
 
-- [**Portfólio Pessoal**](https://github.com/Matheus-Rodd/portfolio) - Um site moderno para apresentar minhas habilidades e projetos.  
-- [**Sistema de Tarefas**](https://github.com/Matheus-Rodd/task-manager) - CRUD simples com autenticação em Python e SQLite.  
-- [**Clone do YouTube (Front-end)**](https://github.com/Matheus-Rodd/youtube-clone) - Layout inspirado no YouTube com HTML, CSS e JS puro.
+- [**Projeto Sistema Solar**](https://github.com/Matheus-Rodd/Projeto-Sistema-Solar) 
+- [**Projeto DiNutri**](https://github.com/Matheus-Rodd/Projeto-DiNutri) 
+- [**Projeto Automatização)**]
 
 ---
 
 ## 📚 Aprendendo Agora  
 
 📌 Atualmente estou me aprofundando em:  
-- React.js e Componentização  
-- Consumo de APIs REST  
-- MongoDB e Mongoose  
+- Programação Back-End (Java, Python, Java Script)
+- Banco de Dados (SQL) 
 - Git Avançado (Branches, Pull Requests, CI/CD básico)
-
----
-
-## 🎯 Planos Futuros  
-
-🔭 Em breve quero:  
-- Criar aplicações completas Full Stack  
-- Contribuir com projetos Open Source  
-- Aprender Docker e conceitos de DevOps  
-- Publicar projetos com deploy na nuvem (Vercel, Netlify, Render)
-
+ 
 ---
 
 ## 📈 Estatísticas do GitHub  
@@ -95,9 +84,8 @@
 ## ✨ Curiosidades  
 
 - 🎮 Gosto de games, especialmente jogos de estratégia.  
-- 🎧 Músicas me ajudam a focar enquanto codifico.  
-- ☕ Sou movido a café e desafios!
-
+- 🎧 Músicas me ajudam a focar enquanto codifico.
+- 
 ---
 
 <p align="center">
