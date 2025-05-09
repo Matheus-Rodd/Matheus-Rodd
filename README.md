@@ -1,44 +1,81 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=800&pause=1000&color=F9A939&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Matheus+Rodrigues.😄+;+Bem-vindo+ao+meu+perfil!+🚀)](https://git.io/typing-svg)
 
-<h3 align="center">💻 Estudante de Desenvolvimento de Sistemas 🚀</h3>
+<h3 align="center">💻 Estudante de Desenvolvimento de Sistemas | Futuro Desenvolvedor Full Stack 🚀</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/matheus-rodrigues-61b799356/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn">
   </a>
+  <a href="mailto:matheus.dev@email.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://github.com/Matheus-Rodd">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" alt="GitHub">
+  </a>
 </p>
 
 ---
 
-## 🖥️ Sobre Mim  
+## 🧠 Sobre Mim  
 
-🎯 Olá, meu nome é Matheus Rodrigues e sou um apaixonado por **desenvolvimento de software**. Busco sempre aprimorar minhas habilidades e estar atualizado com as melhores práticas da área de TI. Atualmente, estudo **Desenvolvimento de Sistemas** e estou em busca de desafios para evoluir profissionalmente.  
+🎯 Olá! Sou Matheus Rodrigues, estudante de **Desenvolvimento de Sistemas** com foco em crescer como **Desenvolvedor Full Stack**. Busco constantemente conhecimento, experiências práticas e oportunidades para me desafiar profissionalmente.  
 
-🚀 Tenho interesse em:  
-✔ Desenvolvimento Web e Mobile  
-✔ Análise e Engenharia de Software  
-✔ Banco de Dados e Cloud Computing  
-✔ Desenvolvimento Back-end e Front-end  
+💡 Estou sempre em busca de aprimorar minhas habilidades técnicas e comportamentais, acreditando que a evolução contínua é a chave para o sucesso na área de tecnologia.  
+
+👨‍💻 Atualmente focado em:  
+- Desenvolvimento Web (HTML, CSS, JS, React)  
+- Fundamentos de Back-end (Node.js, Python, Banco de Dados)  
+- Projetos em equipe, Git e GitHub  
+- Clean Code, boas práticas e versionamento
 
 ---
 
-## 🔧 Tecnologias & Ferramentas  
+## 🚀 Tecnologias e Ferramentas  
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" alt="GitHub">
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white" alt="Visual Studio Code">
-  <img src="https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat-square" alt="Figma">
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white">
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white">
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black">
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=black">
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white">
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white">
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">
+  <img src="https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat-square">
+  <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white">
 </p>
 
 ---
 
-## 📊 Minhas Estatísticas no GitHub  
+## 🔥 Projetos em Destaque  
+
+- [**Portfólio Pessoal**](https://github.com/Matheus-Rodd/portfolio) - Um site moderno para apresentar minhas habilidades e projetos.  
+- [**Sistema de Tarefas**](https://github.com/Matheus-Rodd/task-manager) - CRUD simples com autenticação em Python e SQLite.  
+- [**Clone do YouTube (Front-end)**](https://github.com/Matheus-Rodd/youtube-clone) - Layout inspirado no YouTube com HTML, CSS e JS puro.
+
+---
+
+## 📚 Aprendendo Agora  
+
+📌 Atualmente estou me aprofundando em:  
+- React.js e Componentização  
+- Consumo de APIs REST  
+- MongoDB e Mongoose  
+- Git Avançado (Branches, Pull Requests, CI/CD básico)
+
+---
+
+## 🎯 Planos Futuros  
+
+🔭 Em breve quero:  
+- Criar aplicações completas Full Stack  
+- Contribuir com projetos Open Source  
+- Aprender Docker e conceitos de DevOps  
+- Publicar projetos com deploy na nuvem (Vercel, Netlify, Render)
+
+---
+
+## 📈 Estatísticas do GitHub  
 
 <div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Matheus-Rodd&show_icons=true&theme=radical" alt="GitHub Stats"/>
@@ -47,7 +84,7 @@
 
 ---
 
-## 🏆 Troféus de Perfil do GitHub  
+## 🏆 Troféus do GitHub  
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Matheus-Rodd&theme=onedark" alt="Troféus GitHub">
@@ -55,10 +92,20 @@
 
 ---
 
+## ✨ Curiosidades  
+
+- 🎮 Gosto de games, especialmente jogos de estratégia.  
+- 🎧 Músicas me ajudam a focar enquanto codifico.  
+- ☕ Sou movido a café e desafios!
+
+---
+
 <p align="center">
-  <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif?cid=ecf05e47r6hl461tw08a2cd6uf0w74ijsdyu669ml6aaxusp&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="250" alt="Programação em Ação"/>
-
-  <img src="https://media.giphy.com/media/jBOOXxSJfG8kqMxT11/giphy.gif?cid=ecf05e47a9hunwakt1rr69v9bxtxzuhi2symq6spug8icay2&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="250" alt="Codificando"/>
-
+  <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="250" alt="Programação em Ação"/>
+  <img src="https://media.giphy.com/media/jBOOXxSJfG8kqMxT11/giphy.gif" width="250" alt="Codificando"/>
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExandyZ3Bva2J4a3ZqeWZnOTQ5Z3ZjNDhraWI3cHhua3IwaW9jdWg4bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="250" alt="Tecnologia na Prática"/>
 </p>
+
+---
+
+📬 **Entre em contato comigo para colaborações, ideias ou bate-papo sobre tecnologia!**  
