@@ -51,7 +51,7 @@
 
 - [**Projeto Sistema Solar**](https://github.com/Matheus-Rodd/Projeto-Sistema-Solar) 
 - [**Projeto DiNutri**](https://github.com/Matheus-Rodd/Projeto-DiNutri) 
-- [**Projeto Automatização)**]
+- **Projeto Automatização (Em andamento)**
 
 ---
 
@@ -83,9 +83,9 @@
 
 ## ✨ Curiosidades  
 
-- 🎮 Gosto de games, especialmente jogos de estratégia.  
+- 🎮 Gosto de games, especialmente competitivos.
 - 🎧 Músicas me ajudam a focar enquanto codifico.
-- 
+- 🏀 Pratico esportes como basquete, vôlei e natação.
 ---
 
 <p align="center">
