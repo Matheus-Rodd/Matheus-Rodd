@@ -50,7 +50,7 @@
 ## 🔥 Projetos em Destaque  
 
 - [**Projeto Sistema Solar**](https://github.com/Matheus-Rodd/Projeto-Sistema-Solar) 
-- [**Projeto DiNutri**](https://github.com/Matheus-Rodd/Projeto-Sistema-Solar/tree/main) 
+- [**Projeto DiNutri**](https://github.com/Matheus-Rodd/Projeto-DiNutri) 
 - **Projeto Automatização (Em andamento)**
 
 ---
