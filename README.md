@@ -51,7 +51,7 @@
 
 - [**Projeto Sistema Solar**](https://github.com/Matheus-Rodd/Projeto-Sistema-Solar) 
 - [**Projeto DiNutri**](https://github.com/Matheus-Rodd/Projeto-DiNutri) 
-- **Projeto Automatização (Em andamento)**
+- [**Projeto Automatização**](https://github.com/Matheus-Rodd/projetoautomatizacao)
 
 ---
 
